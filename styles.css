@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(250, 255, 207);
+    font-family: BlackHanSans;
+}
+
+h1   {color: blue;}
+h2   {color: green;}
+p    {color: red;}
+a:link {
+    color: rgb(215, 217, 255);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
